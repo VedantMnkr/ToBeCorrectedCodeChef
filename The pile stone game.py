@@ -1,3 +1,4 @@
+
 def opt1(pile):
     pile.sort()
     pile.pop(0)
