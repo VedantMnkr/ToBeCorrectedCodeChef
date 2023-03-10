@@ -5,7 +5,7 @@
 
 t = int(input())
 
-MOD = 10**9 + 7
+MOD = 10**9+ 7
 
 for i in range(t):
     # take input
